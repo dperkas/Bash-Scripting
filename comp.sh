@@ -7,6 +7,8 @@
 #Then you just run "./comp file.c" and generates "file" file.
 #
 #
+
+
 #!/bin/bash
 
 # Check if an argument is provided
